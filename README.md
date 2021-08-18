@@ -1,3 +1,4 @@
+```
 (function(w) {
   if (w.fastXDM) return;
 
@@ -6291,3 +6292,4 @@ if (window.vkAsyncInitCallbacks && vkAsyncInitCallbacks.length) {
 }
 
 try{stManager.done('api/openapi.js');}catch(e){}
+```
